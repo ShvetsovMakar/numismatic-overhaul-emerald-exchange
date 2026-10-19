@@ -1,16 +1,27 @@
-# 📖 Overview
-This datapack adds crafting recipes for turning Emeralds and Numismatic Overhaul Coins into each other
-### 🔄 Crafting recipes
-- _2 Emeralds -> 1 Silver Coin_
+# Emerald & Coin Exchange
 
-- _2 Silver Coins -> 1 Emerald_
+A Minecraft datapack that adds crafting recipes for converting Emeralds and Numismatic Overhaul Coins into each other.
 
-- _1 Gold Coin -> 50 Emeralds_
+Exchange Emeralds for Silver Coins and Gold Coins for Emeralds to make trading more flexible.
 
-# ⚙️ Dependencies
-- Minecraft 1.21.1
-- [Numismatic Overhaul](https://modrinth.com/mod/numismatic-overhaul) (0.3.5+1.21)
+![Minecraft Java Edition](https://img.shields.io/badge/Minecraft-Java%20Edition-brightgreen)
+![Type](https://img.shields.io/badge/Type-Datapack-blue)
 
-# 📥 Download from Modrinth
+## Features
 
-[![Available on Modrinth](https://img.shields.io/badge/Get%20it%20on-Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/datapack/numismatic-overhaul-emerald-exchange)
+- **Emerald exchange:** Convert Emeralds into Silver Coins and vice versa.
+- **Gold conversion:** Exchange Gold Coins for Emeralds.
+- **Simple crafting:** Use crafting recipes to convert between currencies.
+
+## Crafting Recipes
+
+| Input | Output |
+|---|---|
+| 2 Emeralds | 1 Silver Coin |
+| 2 Silver Coins | 1 Emerald |
+| 1 Gold Coin | 50 Emeralds |
+
+## Dependencies
+
+- **Minecraft:** 1.21.1
+- **Numismatic Overhaul:** 0.3.5+1.21 ([Modrinth](https://modrinth.com/mod/numismatic-overhaul))
