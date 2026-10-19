@@ -25,3 +25,9 @@ Exchange Emeralds for Silver Coins and Gold Coins for Emeralds to make trading m
 
 - **Minecraft:** 1.21.1
 - **Numismatic Overhaul:** 0.3.5+1.21 ([Modrinth](https://modrinth.com/mod/numismatic-overhaul))
+
+## Download
+
+Get the datapack on Modrinth:
+
+[![Available on Modrinth](https://img.shields.io/badge/Get%20it%20on-Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/datapack/numismatic-overhaul-emerald-exchange)
